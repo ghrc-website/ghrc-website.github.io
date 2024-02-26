@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GHRC title</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on GHRC title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Feb 2024 16:02:01 +0800</lastBuildDate>
+    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.example.com/posts/about/</link>
+      <pubDate>Mon, 19 Feb 2024 16:02:01 +0800</pubDate>
+      <guid>http://www.example.com/posts/about/</guid>
+      <description>About this Journal Link to heading Medicine Advances is an open access general medical journal, with a focus on new technologies, new methods and new products in the full life cycle of diseases, including development and progression, screening and early warning, diagnosis and classification, treatment and intervention, prognosis, as well as exploration and innovation in interdisciplinary medical research, including but not limited to new drug development and artificial intelligence applications.</description>
+    </item>
+    <item>
+      <title>publications</title>
+      <link>http://www.example.com/posts/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/publication/</guid>
+      <description>最新论文 Link to heading 1. 《IV ketamine infusion therapy for chronic pain: A systematic review and meta‐analysis》 Link to heading 作者： Peter Olujimi Odutola, Ruchir Gupta&#xA;摘要： This meta-analysis examined the efficacy and safety of intravenous ketamine infusion for chronic pain. Results indicated that ketamine significantly reduced pain scores compared with control interventions, with a moderate effect size. Adverse effects such as hallucinations, nausea, and sedation were not significantly higher.</description>
+    </item>
+  </channel>
+</rss>
